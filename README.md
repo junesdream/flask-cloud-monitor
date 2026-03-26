@@ -3,7 +3,7 @@
 Lightweight monitoring microservice for AI infrastructure.
 Designed to track availability, latency, and operational health of distributed AI services in real time.
 
-![CI Status](https://github.com/junesdream/flask-cloud-monitor/actions/workflows/main.yml/badge.svg)
+![CI Status](https://github.com/junesdream/flask-cloud-monitor/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![Flask](https://img.shields.io/badge/Framework-Flask-black)
 ![License](https://img.shields.io/badge/license-MIT-green)
