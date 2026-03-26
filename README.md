@@ -143,5 +143,5 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**June aka RainbowDev** ([@junesdream](https://github.com/junesdream))
+**JuNe aka RainbowDev** ([@junesdream](https://github.com/junesdream))
 AI Systems • Full-Stack Development • Electronic Music
